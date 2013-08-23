@@ -1,0 +1,106 @@
+All the functions and data type ranges are taken on the basis of GNU/GCC compiler
+
+				Program 1
+
+/*ALGORITHM:
+	CHECK(bool arr[][], int n, int start, int remain, int past)
+		if remain equals 0 return
+		for i <-- 0 to n
+			do if arr[i][j] is true
+			     CHECK(arr, n, i, remain-1, start)
+	*/
+#include<iostream>
+#include<stdio.h>
+using namespace std;
+int result[1000], top;
+bool check(bool arr[][10000], int n, int start, int remain, int past);
+int main()
+{
+	int t, tc ,n, i, j, size, result[1000];
+	char *str[1000];
+	bool arr[10000][10000], flag;
+	scanf("%d", &tc);
+	for(t=0;t<tc;t++)
+	{
+		top = 0;
+		scanf("%d", &n);
+		str = new char[n][1000];
+		for(i=0;i<n-1;i++) cin.getline(str[i], 1000, ' '); // take inputs
+		cin.getline(str[n-1], 1000, '\n');		//take inputs
+		for(i=0;i<n;i++)
+		{
+			size = strlen(str[i]);
+			for(j=0;j<n;j++)
+			{
+				if(str[i][size-1] == str[j][0])	//make a 2-D array with possible string which can be placed behind a string, ie if string[2] = RAM and string[4] = MOHAN then arr[2][4] = true;
+					arr[i][j] = true;
+				else arr[i][j] = false; 
+			}
+		}
+		check(arr, n, 0, n, 0);
+	}
+	return 0; 
+}
+bool check(bool arr[][10000], int n, int start, int remain, int past)	//check all posiible paths in the 2-D array and if all the nodes are selected then return true
+{
+	if(remain == 0) return true;
+	for(int i=0;i<n;i++)
+	{
+		if(arr[start][i])
+		{
+			check(arr, n, i, remain-1, start);
+		}
+	}
+	arr[past][start] = false;				//if the previous path was taken wrong then erase it by making it false. the remaing path will denote the answer
+}
+
+
+
+
+				Program 2
+
+/*ALGORITHM:
+	INCREMENT(int num[], int size)
+		i <-- 0
+		if num[size-1] equals 9
+			then while (num[size-i-1] equals 9) AND (size-i-1 >= 0)
+				num[size-i-1] = 0;
+				i++
+		if(size-i-1 >= 0) num[size-i-1] = num[size-i-1] + 1
+		else printf "1 "
+	*/
+#include<iostream>
+#include<stdio.h>
+#include<string.h>
+using namespace std;
+int main()
+{
+	int t, tc, i, size;		//tc is for test case and t is for loop for test cases.
+	char str[2003];
+	int num[1000];
+	scanf("%d", &tc);
+	for(t=0;t<tc;t++)
+	{
+		cin.getline(str, 2003, '\n');	//taking input as string
+		for(i=0;i<strlen(str);i+=2) 	//converting string to integer array
+		{
+			num[i/2] = str[i]-48;
+		}
+		size = i/2;			//storing size of array
+		i = 0;
+		if(num[size-1] == 9)		//checking last digit
+		{
+			while(num[size-i-1] == 9 && size-i-1 >= 0)	//loop to from last till digits are equal to 9
+			{
+				num[size-i-1] = 0;		//after this loop all the last 9's will become zero, 4769 --> 4760, 99999 --> 00000		
+				i++;
+			}
+		}
+		if(size-i-1 >= 0) num[size-i-1]++;		//check if all zeroes, ie size > i+1 if not print "1 " else increment current value 4769 --> 4770, 99999 --> 100000
+		else printf("1 ");
+		for(i=0;i<szie;i++)
+			printf("%d ", num[i]);
+		printf("\n");
+	}
+	return 0; 
+}

@@ -1,0 +1,71 @@
+#include<stdio.h>
+#include<iostream>
+#include<new>
+using namespace std;
+
+int **matrix , rows;
+long max;
+long sums(int , int , long);
+
+int main()
+{
+	int no_of_test;
+	int i , j;
+	long sum;
+	scanf("%d" , &no_of_test);
+	while(no_of_test!=0)
+	{
+		max=0;
+		cin>>rows;
+		matrix = new int*[rows];
+		for(i=1;i<=rows;i++)
+		{
+			matrix[i-1] = new int[i];
+		}
+		for(i=0;i<rows;i++)
+		{
+			for(j=0;j<=i;j++)
+			{
+				scanf("%d" , &matrix[i][j]);
+			}
+		}
+
+		/*for(i=0;i<rows;i++)
+		{
+			for(j=0;j<=i;j++)
+			{
+				printf("%d" , matrix[i][j]);
+			}
+		}*/
+		
+		sum = matrix[0][0];	
+		sums(0,0,sum);
+		
+		printf("%ld\n" , max);
+
+		no_of_test--;
+	}
+	return 0;
+}
+
+void sums(int i , int j , long sum)
+{
+	if(i+1<=rows)
+	{
+		if((sum+matrix[i+1][j])>max)
+		{
+			max = sum+matrix[i+1][j];
+		}	
+		else if((sum+matrix[i][j+1])>max)
+		{
+			max = sum+matrix[i][j+1];
+		}	
+	}
+	else
+	{
+		sum = sum + matrix[i+1][j];
+		sums(i+1,j,sum);
+		sum = sum + matrix[i][j+1];
+		sums(i,j+1,sum);
+	}
+}

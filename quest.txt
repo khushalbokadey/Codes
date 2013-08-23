@@ -1,0 +1,68 @@
+A team of Egyptian archaeologists were performing excavations at a site called Ramesses Fortress. The fortress is famous for its ancient Egyptian art forms characterized by regularity and detailed depiction of gods, human beings, heroic battles, and nature, intended to provide solace to the deceased in the afterlife. 
+Along with ancient Egyptian paintings they found a very huge door, but to their utter dismay they could not open it. Upon trying all the tactics to open the door they finally gave up!!
+At that very moment they came across a painting which had the key to open the door.
+The key to open the door was to place a combination of 25 ancient Egyptian  words in such a way that the last alphabet of each word should be the starting alphabet of the next word.
+Each archaeologist started forming their own set of words to open up the huge door.
+Now the objective is to code a program that can determine if the set of words suggested by each archaeologist follows the rule [starting from first word the last alphabet of each word should be the first alphabet of next word] mentioned on the ancient Egyptian art & if it can be opened with those set of words or not. 
+Please note that the words provided by them can be jumbled up and still the program should be able to rearrange the sequence of words to determine if the words follow the rule or not, for ex: 
+If archaeologist enter words : arm, mad, king, doctor, rack, goat 
+Then the program should check that these words follow the rule or not even by rearranging the sequence in which the words were originally entered.
+So for the above mentioned input the program should output ‘Door can be opened’
+As by rearranging the words the sequence ‘arm mad doctor rack king goat’ follow the rule.
+
+NOTE : 1) All the words are in lower case letters and no special characters or numeric characters are allowed. 
+             2) Please make necessary assumptions where ever required.
+INPUT :
+*  The number of test cases T ( 0<T<500)
+* For each test case the number of words N ( 0<N<10000)
+*  User will then enter the N words per test case. 
+OUTPUT: 
+For each test case, if the set of words follow the ancient Egyptian rule, output : 
+Door can be opened with the set of words -  <REARRANGED SET OF WORDS>
+Otherwise output :
+Door can’t open.
+Sample input : 
+1
+6
+arm  mad  king  doctor  rack  goat
+Output : 
+Door can be opened with the set of words - arm mad doctor rack king goat
+Sample input 2:
+2
+4
+socks shoes laces polish
+burger cheese cabbage tomato
+Output:
+Door can’t open
+Door can’t open
+
+
+NOTE : 1) All the words are in lower case letters and no special characters or numeric characters are allowed.
+       2) Please make necessary assumptions where ever required.
+[1:54:40 PM] belzabar.software: Question 2
+[1:55:16 PM] belzabar.software: Guidelines:
+** You can use C, C++ or Java for writing the program.
+** Try to write an efficient program. There are extra credits for it.
+** Explain the algorithm at the end or beginning of the program. There are credits for it.
+** Try to keep your code legible and amply commented.
+** Make NECESSARY assumptions.
+** Please do not cheat or discuss the problem with anyone. Kindly note that cheating or usage of unfair means can lead to disqualification.
+-------------------------------------------------------------------------------------------
+
+Given a number, say, 4769, as an array [4,7,6,9]. Write a code that takes the array as input and outputs the array incremented by one: i.e. [4,7,7,0].
+
+Input
+An integer t, 1<=t<=100, denoting the number of testcases followed by t lines each containing n digits of the array(n can vary from one test case to other; 1<=n<1000) separated by spaces.
+
+Output
+For each test case, output a line with the incremented array as digits separated by spaces.
+
+Test cases
+2
+
+4 7 6 9
+4 7 7 0
+
+9 9 9 9 9
+1 0 0 0 0 0
+[1:57:43 PM] belzabar.software: r u done sharing question

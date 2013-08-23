@@ -1,0 +1,202 @@
+						Problem 1: 
+
+Algorithm: 
+
+1)	Input the no of words
+
+2)	Input the words .
+	
+3)	Now use the brute force to find whether the door can be opend or not. For this make an integer array which will store the
+	position of the words in the spell
+	int *temp = new int[N];
+	int k = 0  ,count =0;
+	for i <- 0 to N-1
+		k=0;
+		flag =1;
+		temp[k++] = i; 
+		for j=0 <- to N-1
+			
+			count ++;	
+			len = strlen(words[i]);
+			if(i==j && check(j))		
+				continue:
+			else if(words[i][len-1] == words[j][0])
+			{
+				temp[k++] = j;
+				j=0;
+			}
+			if(count==0)
+				flag = 0 and break;
+
+		if(flag==1)
+			print("door canc be opened") and break
+
+4)	Define a check function o check if the index exists in the temp array; The loop will terminate if all the entries are in temp array
+	denoting that door can be opened.
+
+5)	IF door cannot be opend then the count will keep on increasing and wil equal to N and will terminate.
+
+6)	This process will keep on going for all the values of N.	
+
+
+
+
+
+Code:
+
+
+
+#include<stdio.h>
+#include<iostream>
+#include<new>
+using namespace std;
+int main()
+{
+	int no_of_test , N , i , flag;
+	int *temp = new int[N];
+	int k = 0  ,count =0;
+	scanf("%d" , &no_of_test);
+	while(no_of_test!=0)
+	{
+		scanf("%d" , &N);
+		int *temp = new int[N];
+		char **words = new char*[N];			/* memory allocation for N number of words*/
+		for(i=0;i<N;i++)
+		{
+			words[i] = new char[50];		/* assuming max word length to be 50;*/
+		}
+		for(i=0;i<N;i++)
+		{
+			scanf("%s" , words[i]);	
+		}
+		for (i =0;i< N ; i++)
+		{
+			k=0;
+			flag =1;
+			temp[k++] = i; 
+			for (j=0;j< N ; j++)
+			{
+				
+				count ++;	
+				len = strlen(words[i]);
+				if(i==j && check(j))		
+					continue:
+				else if(words[i][len-1] == words[j][0])
+				{
+					temp[k++] = j;
+					j=0;
+				}
+				if(count==0)
+				{
+					flag = 0;
+					 break;
+				}
+			}
+		}
+		no_of_test--;
+	}
+	return 0;
+}
+
+
+
+
+
+
+
+
+
+
+						Problem 2: 
+
+Algorithm: 
+
+1)	Input the string  
+
+2)	check whether all the digits are 9 or not ??
+	if yes then make 1st character '1' and others '0' and also increase the size of input by 1
+
+3)	now if all characters are not '9' then check if last digit is '9' or not??
+	if not then just add 1 to last digit and print the number.
+
+4)	if last digit is '9' then decrease the last digit by 9 as we are working on ASCII characters.
+	now continue step 5 and 6 untill arr[j] == '0' where j starts from len-1	
+
+5)	decrease j by 1	
+
+6)	if arr[j] == '9' again decrease the last digit by 9.
+
+7) 	printf the result obtained.
+
+
+
+
+
+
+Code:
+
+
+
+#include<stdio.h>
+#include<string.h>
+int main()
+{
+	char arr[1000];
+	int no_of_test , len , i , j , flag; 
+	scanf("%d" , &no_of_test);
+	while(no_of_test!=0)
+	{
+		fflush(stdin);
+		scanf("%s" , arr);			/*input of string*/
+		len = strlen(arr);
+		flag= 1;
+		for(i=0;i<len;i++)			/*check if all the   digits are 9???*/
+		{
+			if(arr[i]!='9')
+			{
+				flag=0;
+			}
+		}
+		
+		if(flag==1)		/* if all the digits are 9 then just make 1st element 1 and others 0 increasing len by1 */
+		{
+			arr[0] = '1';
+			for(i=1;i<=len;i++)
+			{
+				arr[i] = '0';
+			}
+			len++;
+		}
+		else			/*else go for other numbers*/
+		{	
+			if(arr[len-1]=='9')			/* if last digit is 9 , subtract by 9 as they are ascii codes*/
+				arr[len-1]= arr[len-1] -9;
+			else				/* else increase  char by 1*/
+				arr[len-1]= arr[len-1]  + 1;
+			j = len-1;
+			if(arr[len-1]=='0')			/* make the changes in the digits accordingly if last is made 0*/
+			{
+				j--;
+				while(arr[j+1]=='0' || j==0)
+				{
+					if(arr[j]=='9')
+						arr[j]= arr[j] -9;
+					else
+						arr[j]= arr[j]  + 1;
+					j--;
+				}
+			}
+		}
+		printf("\n");				/* print array*/
+		for(i=0;i<len;i++)
+		{
+			printf("%c" , arr[i]);
+		}
+		no_of_test--;
+	}
+	return 0;
+}
+
+
+
+

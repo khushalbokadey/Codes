@@ -1,0 +1,19 @@
+#include<stdio.h>
+#include<string.h>
+int main()
+{
+	char exp[400];
+	int no_of_test , len , i;
+	scanf("%d" , &no_of_test);
+	while(no_of_test!=0)
+	{
+		fflush(stdin);
+		gets(exp);
+		len = strlen(exp);
+		for(i=0;i<strlen;i++)
+		{
+		}	
+		no_of_test--;
+	}
+	return 0;
+}
