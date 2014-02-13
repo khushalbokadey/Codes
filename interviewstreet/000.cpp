@@ -21,6 +21,5 @@ void INPUT_FROM_FILE()
 int main()
 {
     INPUT_FROM_FILE();
-
     return 0;
 }

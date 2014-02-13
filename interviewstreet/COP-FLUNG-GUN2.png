@@ -1,0 +1,37 @@
+#include<iostream>
+#include<string.h>
+#include<stdio.h>
+#include<vector>
+#include<map>
+#include<algorithm>
+#include<set>
+
+using namespace std;
+
+#define in() ({ int x; scanf("%d", &x); x; })
+#define fr(i,n) for(i = 0; i < n; i++)
+#define diff(a,b) (b-a)
+
+void INPUT_FROM_FILE()
+{
+    #ifndef ONLINE_JUDGE
+    freopen("input.txt", "r", stdin);
+    #endif
+}
+
+int main()
+{
+    INPUT_FROM_FILE();
+    multimap<int,int > frequency_map;
+    int N, ti[100003], fi[100003], i, j;
+    N = in();
+    for (i=0; i<N; i++) {
+        ti[i] = in();
+        fi[i] = in();
+        frequency_map.insert(pair<int,int>(fi[i], ti[i]));
+    }
+    count = frequency_map.size();
+
+    cout << count << "\n";
+    return 0;
+}

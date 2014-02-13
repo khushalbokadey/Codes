@@ -1,0 +1,31 @@
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.util.Scanner;
+
+
+public class Compiler {
+
+	public static void main(String[] args) throws Exception {
+		// TODO Auto-generated method stub
+		int i,j = 0, len;
+		String lastStr = null, line;
+		BufferedReader inp = new BufferedReader (new InputStreamReader(System.in));
+		while((line=inp.readLine())!=null) {
+			len = line.length();
+			for (i=0; i<len; i++) {
+				System.out.println(line.charAt(i));
+				if (i< len-1 && line.charAt(i) == '/' && line.charAt(i+1) == '/') {
+					j = i-1;
+					lastStr = line.substring(i, len-1);
+					break;
+				}
+			}
+			String str = line.substring(0, j);
+			str.replace("->", ".");
+			System.out.println(str + lastStr);
+		}
+
+	}
+
+}

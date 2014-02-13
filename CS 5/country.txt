@@ -1,0 +1,1034 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1265
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;\red37\green0\blue255;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww25400\viewh14520\viewkind0
+\deftab720
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/af.html"}}{\fldrslt 
+\f0\b\fs26 \cf2 \ul \ulc2 Afghanistan}}
+\f0\fs26 \
+2\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/ax.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Akrotiri}}\
+3\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/al.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Albania}}\
+4\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/ag.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Algeria}}\
+5\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/aq.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 American Samoa}}\
+6\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/an.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Andorra}}\
+7\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/ao.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Angola}}\
+8\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/av.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Anguilla}}\
+9\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/ay.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Antarctica}}\
+10\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/ac.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Antigua and Barbuda}}\
+11\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/ar.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Argentina}}\
+12\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/am.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Armenia}}\
+13\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/aa.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Aruba}}\
+14\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/at.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Ashmore and Cartier Islands}}\
+15\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/as.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Australia}}\
+16\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/au.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Austria}}\
+17\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/aj.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Azerbaijan}}\
+18\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/bf.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Bahamas, The}}\
+19\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/ba.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Bahrain}}\
+20\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/bg.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Bangladesh}}\
+21\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/bb.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Barbados}}\
+22\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/bs.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Bassas da India}}\
+23\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/bo.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Belarus}}\
+24\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/be.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Belgium}}\
+25\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/bh.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Belize}}\
+26\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/bn.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Benin}}\
+27\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/bd.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Bermuda}}\
+28\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/bt.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Bhutan}}\
+29\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/bl.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Bolivia}}\
+30\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/bk.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Bosnia and Herzegovina}}\
+31\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/bc.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Botswana}}\
+32\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/bv.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Bouvet Island}}\
+33\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/br.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Brazil}}\
+34\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/io.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 British Indian Ocean Territory}}\
+35\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/vi.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 British Virgin Islands}}\
+36\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/bx.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Brunei}}\
+37\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/bu.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Bulgaria}}\
+38\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/uv.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Burkina Faso}}\
+39\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/bm.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Burma}}\
+40\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/by.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Burundi}}\
+41\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/cb.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Cambodia}}\
+42\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/cm.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Cameroon}}\
+43\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/ca.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Canada}}\
+44\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/cv.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Cape Verde}}\
+45\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/cj.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Cayman Islands}}\
+46\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/ct.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Central African Republic}}\
+47\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/cd.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Chad}}\
+48\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/ci.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Chile}}\
+49\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/ch.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 China}}\
+50\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/kt.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Christmas Island}}\
+51\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/ip.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Clipperton Island}}\
+52\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/ck.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Cocos (Keeling) Islands}}\
+53\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/co.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Colombia}}\
+54\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/cn.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Comoros}}\
+55\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/cg.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Congo, Democratic Republic of the}}\
+56\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/cf.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Congo, Republic of the}}\
+57\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/cw.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Cook Islands}}\
+58\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/cr.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Coral Sea Islands}}\
+59\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/cs.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Costa Rica}}\
+60\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/iv.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Cote d'Ivoire}}\
+61\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/hr.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Croatia}}\
+62\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/cu.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Cuba}}\
+63\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/cy.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Cyprus}}\
+64\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/ez.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Czech Republic}}\
+65\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/da.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Denmark}}\
+66\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/dx.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Dhekelia}}\
+67\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/dj.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Djibouti}}\
+68\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/do.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Dominica}}\
+69\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/dr.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Dominican Republic}}\
+70\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/ec.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Ecuador}}\
+71\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/eg.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Egypt}}\
+72\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/es.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 El Salvador}}\
+73\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/ek.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Equatorial Guinea}}\
+74\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/er.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Eritrea}}\
+75\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/en.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Estonia}}\
+76\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/et.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Ethiopia}}\
+77\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/eu.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Europa Island}}\
+78\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/fk.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Falkland Islands (Islas Malvinas)}}\
+79\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/fo.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Faroe Islands}}\
+80\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/fj.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Fiji}}\
+81\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/fi.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Finland}}\
+82\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/fr.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 France}}\
+83\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/fg.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 French Guiana}}\
+84\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/fp.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 French Polynesia}}\
+85\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/fs.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 French Southern and Antarctic Lands}}\
+86\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/gb.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Gabon}}\
+87\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/ga.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Gambia, The}}\
+88\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/gz.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Gaza Strip}}\
+89\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/gg.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Georgia}}\
+90\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/gm.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Germany}}\
+91\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/gh.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Ghana}}\
+92\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/gi.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Gibraltar}}\
+93\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/go.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Glorioso Islands}}\
+94\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/gr.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Greece}}\
+95\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/gl.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Greenland}}\
+96\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/gj.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Grenada}}\
+97\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/gp.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Guadeloupe}}\
+98\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/gq.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Guam}}\
+99\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/gt.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Guatemala}}\
+100\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/gk.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Guernsey}}\
+101\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/gv.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Guinea}}\
+102\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/pu.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Guinea-Bissau}}\
+103\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/gy.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Guyana}}\
+104\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/ha.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Haiti}}\
+105\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/hm.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Heard Island and McDonald Islands}}\
+106\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/vt.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Holy See (Vatican City)}}\
+107\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/ho.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Honduras}}\
+108\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/hk.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Hong Kong}}\
+109\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/hu.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Hungary}}\
+110\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/ic.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Iceland}}\
+111\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/in.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 India}}\
+112\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/id.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Indonesia}}\
+113\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/ir.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Iran}}\
+114\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/iz.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Iraq}}\
+115\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/ei.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Ireland}}\
+116\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/im.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Isle of Man}}\
+117\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/is.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Israel}}\
+118\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/it.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Italy}}\
+119\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/jm.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Jamaica}}\
+120\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/jn.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Jan Mayen}}\
+121\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/ja.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Japan}}\
+122\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/je.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Jersey}}\
+123\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/jo.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Jordan}}\
+124\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/ju.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Juan de Nova Island}}\
+125\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/kz.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Kazakhstan}}\
+126\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/ke.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Kenya}}\
+127\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/kr.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Kiribati}}\
+128\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/kn.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Korea, North}}\
+129\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/ks.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Korea, South}}\
+130\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/ku.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Kuwait}}\
+131\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/kg.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Kyrgyzstan}}\
+132\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/la.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Laos}}\
+133\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/lg.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Latvia}}\
+134\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/le.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Lebanon}}\
+135\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/lt.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Lesotho}}\
+136\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/li.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Liberia}}\
+137\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/ly.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Libya}}\
+138\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/ls.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Liechtenstein}}\
+139\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/lh.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Lithuania}}\
+140\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/lu.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Luxembourg}}\
+141\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/mc.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Macau}}\
+142\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/mk.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Macedonia}}\
+143\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/ma.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Madagascar}}\
+144\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/mi.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Malawi}}\
+145\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/my.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Malaysia}}\
+146\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/mv.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Maldives}}\
+147\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/ml.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Mali}}\
+148\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/mt.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Malta}}\
+149\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/rm.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Marshall Islands}}\
+150\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/mb.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Martinique}}\
+151\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/mr.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Mauritania}}\
+152\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/mp.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Mauritius}}\
+153\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/mf.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Mayotte}}\
+154\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/mx.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Mexico}}\
+155\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/fm.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Micronesia, Federated States of}}\
+156\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/md.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Moldova}}\
+157\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/mn.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Monaco}}\
+158\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/mg.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Mongolia}}\
+159\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/mh.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Montserrat}}\
+160\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/mo.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Morocco}}\
+161\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/mz.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Mozambique}}\
+162\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/wa.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Namibia}}\
+163\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/nr.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Nauru}}\
+164\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/bq.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Navassa Island}}\
+165\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/np.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Nepal}}\
+166\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/nl.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Netherlands}}\
+167\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/nt.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Netherlands Antilles}}\
+168\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/nc.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 New Caledonia}}\
+169\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/nz.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 New Zealand}}\
+170\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/nu.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Nicaragua}}\
+171\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/ng.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Niger}}\
+172\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/ni.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Nigeria}}\
+173\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/ne.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Niue}}\
+174\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/nf.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Norfolk Island}}\
+175\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/cq.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Northern Mariana Islands}}\
+176\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/no.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Norway}}\
+177\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/mu.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Oman}}\
+178\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/pk.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Pakistan}}\
+179\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/ps.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Palau}}\
+180\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/pm.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Panama}}\
+181\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/pp.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Papua New Guinea}}\
+182\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/pf.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Paracel Islands}}\
+183\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/pa.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Paraguay}}\
+184\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/pe.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Peru}}\
+185\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/rp.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Philippines}}\
+186\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/pc.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Pitcairn Islands}}\
+187\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/pl.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Poland}}\
+188\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/po.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Portugal}}\
+189\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/rq.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Puerto Rico}}\
+190\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/qa.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Qatar}}\
+191\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/re.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Reunion}}\
+192\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/ro.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Romania}}\
+193\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/rs.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Russia}}\
+194\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/rw.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Rwanda}}\
+195\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/sh.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Saint Helena}}\
+196\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/sc.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Saint Kitts and Nevis}}\
+197\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/st.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Saint Lucia}}\
+198\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/sb.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Saint Pierre and Miquelon}}\
+199\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/vc.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Saint Vincent and the Grenadines}}\
+200\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/ws.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Samoa}}\
+201\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/sm.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 San Marino}}\
+202\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/tp.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Sao Tome and Principe}}\
+203\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/sa.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Saudi Arabia}}\
+204\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/sg.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Senegal}}\
+205\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/yi.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Serbia and Montenegro}}\
+206\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/se.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Seychelles}}\
+207\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/sl.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Sierra Leone}}\
+208\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/sn.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Singapore}}\
+209\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/lo.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Slovakia}}\
+210\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/si.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Slovenia}}\
+211\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/bp.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Solomon Islands}}\
+212\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/so.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Somalia}}\
+213\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/sf.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 South Africa}}\
+214\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/sx.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 South Georgia and the South Sandwich Islands}}\
+215\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/sp.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Spain}}\
+216\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/pg.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Spratly Islands}}\
+217\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/ce.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Sri Lanka}}\
+218\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/su.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Sudan}}\
+219\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/ns.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Suriname}}\
+220\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/sv.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Svalbard}}\
+221\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/wz.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Swaziland}}\
+222\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/sw.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Sweden}}\
+223\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/sz.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Switzerland}}\
+224\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/sy.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Syria}}\
+225\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/tw.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Taiwan}}\
+226\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/ti.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Tajikistan}}\
+227\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/tz.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Tanzania}}\
+228\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/th.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Thailand}}\
+229\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/tt.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Timor-Leste}}\
+230\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/to.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Togo}}\
+231\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/tl.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Tokelau}}\
+232\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/tn.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Tonga}}\
+233\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/td.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Trinidad and Tobago}}\
+234\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/te.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Tromelin Island}}\
+235\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/ts.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Tunisia}}\
+236\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/tu.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Turkey}}\
+237\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/tx.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Turkmenistan}}\
+238\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/tk.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Turks and Caicos Islands}}\
+239\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/tv.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Tuvalu}}\
+240\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/ug.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Uganda}}\
+241\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/up.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Ukraine}}\
+242\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/ae.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 United Arab Emirates}}\
+243\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/uk.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 United Kingdom}}\
+244\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/us.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 United States}}\
+245\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/uy.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Uruguay}}\
+246\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/uz.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Uzbekistan}}\
+247\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/nh.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Vanuatu}}\
+248\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/ve.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Venezuela}}\
+249\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/vm.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Vietnam}}\
+250\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/vq.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Virgin Islands}}\
+251\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/wq.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Wake Island}}\
+252\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/wf.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Wallis and Futuna}}\
+253\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/we.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 West Bank}}\
+254\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/wi.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Western Sahara}}\
+255\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/ym.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Yemen}}\
+256\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/za.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Zambia}}\
+257\
+\pard\pardeftab720\sl340
+{\field{\*\fldinst{HYPERLINK "http://www.listofcountriesoftheworld.com/zi.html"}}{\fldrslt 
+\b \cf2 \ul \ulc2 Zimbabwe}}\
+}

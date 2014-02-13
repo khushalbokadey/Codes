@@ -1,0 +1,5 @@
+4
+#A#B#B# A###B#B
+#A#B# #B#A#
+#A#B#B# #A##B#B
+#A#AAAA#B#B# #A#AAA#A#B#B

@@ -31,7 +31,7 @@ int main()
         if(max==0)
             printf("UNFIT\n");
         else
-            printf("%d\n" , max);
+            printf("%ld\n" , max);
         no_of_test--;
     }
     return 0;
