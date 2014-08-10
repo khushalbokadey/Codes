@@ -19,6 +19,12 @@ void INPUT_FROM_FILE()
 
 int main()
 {
-    INPUT_FROM_FILE();
+    //INPUT_FROM_FILE();
+    long long int a;
+    cin >> a;
+    if (a==0 || a==1 || a%3==0 || a%6==1)
+        cout << "yes\n";
+    else
+        cout << "no\n";
     return 0;
 }

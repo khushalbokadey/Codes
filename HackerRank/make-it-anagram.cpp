@@ -20,5 +20,20 @@ void INPUT_FROM_FILE()
 int main()
 {
     INPUT_FROM_FILE();
+    int arr1[50] = {0};
+    int arr2[50] = {0};
+    int i, answer = 0;
+    string str1, str2;
+    cin >> str1 >> str2;
+    for (i=0; i<str1.length(); i++) {
+        arr1[str1.at(i)-97]++;
+    }
+    for (i=0; i<str2.length(); i++) {
+        arr2[str2.at(i)-97]++;
+    }
+    for (i=0; i<26; i++) {
+        answer += (abs(arr1[i]-arr2[i]));
+    }
+    cout << answer << "\n";
     return 0;
 }

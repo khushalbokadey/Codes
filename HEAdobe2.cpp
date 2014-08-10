@@ -20,5 +20,13 @@ void INPUT_FROM_FILE()
 int main()
 {
     INPUT_FROM_FILE();
+    int T, X, Y;
+    int sqrtX, sqrtY;
+    cin >> T;
+    while (T--) {
+        cin >> X >> Y;
+        sqrtX = sqrt(X);
+        sqrtY = sqrt(Y);
+    }
     return 0;
 }
